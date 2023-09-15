@@ -1,6 +1,6 @@
-# HolaaHost App - Event booking mobile app ❤️
+# HolaaHost Web - Event booking web app ❤️
 
-HolaaHost App is a platform that brings users together, allowing them to form groups based on shared interests and create niche-focused event groups.
+HolaaHost Web is a platform that brings users together, allowing them to form groups based on shared interests and create niche-focused event groups.
 
 ## Installation
 
@@ -29,7 +29,7 @@ After successfully installing the dependencies, you can run Holaahost web on you
   yarn dev
 ```
 
-This will start the development server, and you can access the static landing page in your browser at http://localhost:3000.
+This will start the development server, and you can access the app in your browser at http://localhost:3000.
 
 ## Live Website
 
