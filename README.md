@@ -1,6 +1,6 @@
-# Flightella - Airline Booking Landing Page ✈️⭐💫🌟
+# HolaaHost App - Event booking mobile app ❤️
 
-Flightella is a modern and user-friendly airline booking landing page built using React.js, SCSS, and Vite. It serves as a static landing page to provide information and promote airline services, but it does not include full booking functionality.
+HolaaHost App is a platform that brings users together, allowing them to form groups based on shared interests and create niche-focused event groups.
 
 ## Installation
 
